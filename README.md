@@ -2,7 +2,7 @@
 My names Vishant Prasad and I am a Software & Mechatronics Engineer.<br>I currently work in the Defence Space in Sydney, Australia apart of the Thales Group as a Lead Full-Stack Software Engineer.<br>My primary strengths are mainly with Back-End development in C & C++.<br>I am currently working on honing in on my Front-End development skills and branching out to differing coding languages.<br>My formal studies have also covered experience with machine langauge and hardware.<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/midnight_rom) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishant-prasad) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/@alreadydeadvish) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@midnightrom) 
 
 # 💻 Tech Stack:
