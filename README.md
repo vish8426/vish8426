@@ -32,24 +32,6 @@
 
 &nbsp;
 
-# 📱 <span style="color: #FF69B4"> Socials </span>
-<div align="center" style="filter: brightness(0) saturate(100%) invert(58%) sepia(93%) saturate(1265%) hue-rotate(67deg) brightness(119%) contrast(119%);">
-   <a href="https://linkedin.com/in/vishant-prasad" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://instagram.com/midnight_rom" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://youtube.com/@midnightrom" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://soundcloud.com/alreadydeadvish" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/soundcloud.svg" width="40" height="40" alt="soundcloud logo"  />
-  </a>
-</div>
-
-&nbsp;
-
 # 💻 <span style="color: #FF69B4"> Tech Stack</span>
 
 ### 🔧 <span style="filter: brightness(0) saturate(100%) invert(58%) sepia(93%) saturate(1265%) hue-rotate(5deg) brightness(119%) contrast(119%);">Languages</span>
