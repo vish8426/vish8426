@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/image-banner-edited.png"
+  <img src="./assets/image-banner-edited.png" alt="Banner Image" />
 </div>
 
 # 🛸 About Me 🛸
