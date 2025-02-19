@@ -13,9 +13,9 @@
 
 🔹 I'm Vish!
 
-🔹 I'm a **Software & Mechatronics Engineer** based in Sydney, Australia
+🔹 I'm a **Software & Mechatronics Engineer** from Sydney, Australia
 
-🔹 Currently leading Full-Stack development at **Thales Group** in the Defence Space
+🔹 Currently a Lead Software Engineer performing Full-Stack development at **Thales Group** in the Training and Simulation Defence Space
 
 ## <span style="color: #FF69B4"> My Expertise: </span>
   - 💪 Back-End Development with C & C++
