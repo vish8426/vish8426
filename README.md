@@ -5,7 +5,7 @@
 
 <div align="center">
   <kbd>
-    <img alt="F22 Raptor" width="100" height="100" src="./assets/f22.gif"style="border: 3px solid rgb(106, 255, 0); border-radius: 10px;"/>
+    <img alt="F22 Raptor" width="200" height="200" src="./assets/f22.gif"style="border: 3px solid rgb(106, 255, 0); border-radius: 10px;"/>
   </kbd>
 </div>
 
