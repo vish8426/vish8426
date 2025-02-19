@@ -54,6 +54,7 @@
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gitlab/gitlab-plain.svg" width="40" height="40" alt="gitlab logo" />
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/grafana/grafana-plain.svg" width="40" height="40" alt="grafana logo" />
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode logo" />
+<img src="./assets/Atom.png" width="40" height="40" alt="atom logo" />
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" width="40" height="40" alt="linux logo" />
 
 ### 🛠 Frameworks & Tools
