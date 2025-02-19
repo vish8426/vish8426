@@ -34,13 +34,26 @@
 
 # 💻 <span style="color: #FF69B4"> Tech Stack</span>
 
-### 🔧 <span style="filter: brightness(0) saturate(100%) invert(58%) sepia(93%) saturate(1265%) hue-rotate(5deg) brightness(119%) contrast(119%);">Languages</span>
+### 🔧 <span style="filter: brightness(0) saturate(100%) invert(58%) sepia(93%) saturate(1265%) hue-rotate(5deg) brightness(119%) contrast(119%);">Experience</span>
 <div align="center" style="filter: brightness(0) saturate(100%) invert(58%) sepia(93%) saturate(1265%) hue-rotate(5deg) brightness(119%) contrast(119%);">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40" alt="js logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40" height="40" alt="ts logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="40" height="40" alt="c++ logo" />
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-plain.svg" width="40" height="40" alt="c logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40" alt="python logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40" alt="html logo"  />
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/aftereffects/aftereffects-original.svg" width="40" height="40" alt="ae logo" />
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cmake/cmake-plain.svg" width="40" height="40" alt="cmake logo" />
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/confluence/confluence-original.svg" width="40" height="40" alt="confluence logo" />
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jira/jira-original.svg" width="40" height="40" alt="jira logo" />
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-plain.svg" width="40" height="40" alt="docker logo" />
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fortran/fortran-original.svg" width="40" height="40" alt="fortran logo" />
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gcc/gcc-original.svg" width="40" height="40" alt="gcc logo" />
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-plain.svg" width="40" height="40" alt="git logo" />
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gitlab/gitlab-plain.svg" width="40" height="40" alt="gitlab logo" />
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/grafana/grafana-plain.svg" width="40" height="40" alt="grafana logo" />
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode logo" />
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" width="40" height="40" alt="linux logo" />
 
 ### 🛠 Frameworks & Tools
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) 
