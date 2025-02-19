@@ -43,6 +43,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40" alt="python logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40" alt="html logo"  />
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/aftereffects/aftereffects-original.svg" width="40" height="40" alt="ae logo" />
+<img src="./assets/ps.png" width="40" height="40" alt="ps logo" />
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cmake/cmake-plain.svg" width="40" height="40" alt="cmake logo" />
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/confluence/confluence-original.svg" width="40" height="40" alt="confluence logo" />
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jira/jira-original.svg" width="40" height="40" alt="jira logo" />
