@@ -15,5 +15,5 @@ jobs:
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          channel_id: midnightrom
+          channel_id: UCbRnjjhyZd2qOJDAaaLPx6g
           show_duration: true
