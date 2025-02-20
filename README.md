@@ -21,7 +21,7 @@
 
 🔹 I'm a **Software & Mechatronics Engineer** from Sydney, Australia
 
-🔹 Currently a Lead Software Engineer performing Full-Stack development at **Thales Group** in the Training and Simulation Defence Space
+🔹 Lead Software Engineer performing Full-Stack development at **Thales Group** in the Training and Simulation Defence Space
 
 ## <span style="color: #FF69B4"> My Expertise: </span>
   - 💪 Back-End Development with C & C++
