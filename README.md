@@ -43,24 +43,43 @@
 <div align="center"
 ### 🔧 Experience
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40" alt="js logo"  />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40" height="40" alt="ts logo"  />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="40" height="40" alt="c++ logo" />
+  &nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-plain.svg" width="40" height="40" alt="c logo" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40" alt="python logo"  />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40" alt="html logo"  />
+  &nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/aftereffects/aftereffects-original.svg" width="40" height="40" alt="ae logo" />
+  &nbsp;
   <img src="./assets/ps.png" width="40" height="40" alt="ps logo" />
+  &nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cmake/cmake-plain.svg" width="40" height="40" alt="cmake logo" />
+  &nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/confluence/confluence-original.svg" width="40" height="40" alt="confluence logo" />
+  &nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jira/jira-original.svg" width="40" height="40" alt="jira logo" />
+  &nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-plain.svg" width="40" height="40" alt="docker logo" />
+  &nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fortran/fortran-original.svg" width="40" height="40" alt="fortran logo" />
+  &nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gcc/gcc-original.svg" width="40" height="40" alt="gcc logo" />
+  &nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-plain.svg" width="40" height="40" alt="git logo" />
+  &nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gitlab/gitlab-plain.svg" width="40" height="40" alt="gitlab logo" />
+  &nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/grafana/grafana-plain.svg" width="40" height="40" alt="grafana logo" />
+  &nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode logo" />
+  &nbsp;
   <img src="./assets/atom.png" width="40" height="40" alt="atom logo" />
+  &nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" width="40" height="40" alt="linux logo" />
 
 
