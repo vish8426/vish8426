@@ -45,6 +45,8 @@
   - 🔨 Continuous Improvement in Software Architecture
   - 💿 Expanding Midnight ROM Collective (Merchandise, Portfolio & Website Coming Soon)
 
+<img width="100" height="100" src="./assets/gary.gif" />
+
 &nbsp;
 
 # 💻 <span style="color: #FF69B4"> Tech Stack </span>
@@ -150,6 +152,8 @@
  &nbsp;&nbsp;&nbsp;
  [![YouTube](./assets/youtube-light.svg)](https://youtube.com/midnightrom#gh-light-mode-only) 
  [![YouTube](./assets/youtube-dark.svg)](https://youtube.com/midnightrom#gh-dark-mode-only) 
+
+<img width="100" height="100" src="./assets/sun.gif" />
 
 </div>
 
