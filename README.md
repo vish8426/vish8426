@@ -120,6 +120,33 @@
 
 &nbsp;
 
+## 📱 Socials  
+<div align="center">
+ <a href="https://linkedin.com/in/vishant-prasad" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn" title="Connect on LinkedIn"/>
+ </a>  
+ &nbsp;
+ <a href="https://soundcloud.com/alreadydeadvish" target="_blank">
+   <img src="./assets/sc.png" width="50" height="50" alt="SoundCloud" title="Listen on SoundCloud"/>
+ </a>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@YOUR_USERNAME" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="50" height="50" alt="YouTube" title="Watch on YouTube"/>
+</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50" height="50" alt="Twitter" title="Follow on Twitter"/>
+</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/YOUR_USERNAME" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50" height="50" alt="Instagram" title="Follow on Instagram"/>
+</a>
+
+</div>
+
+
+&nbsp;
+
 ## 🎥 Cinematography
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Alfa Run](https://ytcards.demolab.com/?id=3CaG0oXeqeM&title=Alfa+Run&lang=en&timestamp=1653839644&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Alfa Run")](https://www.youtube.com/watch?v=3CaG0oXeqeM)
