@@ -38,7 +38,7 @@
 
 &nbsp;
 
-# 💻 <span style="color: #FF69B4"> Tech Stack</span>
+# 💻 <span style="color: #FF69B4"> Tech Stack </span>
 
 <div align="center"
 ### 🔧 Experience
@@ -122,7 +122,7 @@
 
 ## 📱 Socials  
 <div align="center">
- <a href="https://linkedin.com/in/vishant-prasad" target="_blank">
+ <a href="https://linkedin.com/in/vishant-prasad">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn" title="Connect on LinkedIn"/>
  </a>  
  &nbsp;
@@ -159,5 +159,7 @@
 
 &nbsp;
 
-# 📊 <span style="color: #FF69B4"> GitHub Stats </span>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vish8426&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# ⚙️ <span style="color: #FF69B4"> GitHub Stats </span>
+![](https://github-readme-stats.vercel.app/api?username=vish8426&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vish8426&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vish8426&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
