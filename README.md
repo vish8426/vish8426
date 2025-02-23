@@ -129,7 +129,7 @@
    <img src="./assets/sc.png" width="50" height="50" alt="SoundCloud" title="Listen on SoundCloud"/>
  </a>  
  &nbsp;
- <a href="https://www.youtube.com/UCLrxQavao9XAjq6CuBLd12g">
+ <a href="https://www.youtube.com/midnightrom">
    <img src="./assets/yt.png" width="50" height="50" alt="YouTube" title="Watch on YouTube"/>
  </a>  
  &nbsp;
