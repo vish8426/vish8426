@@ -139,17 +139,17 @@
 <div align="center">
  
  # 📱 Socials   
- [![Instagram](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/instagram-light.svg)](https://instagram.com/midnight_rom#gh-light-mode-only) 
- [![Instagram](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/instagram-dark.svg)](https://instagram.com/midnight_rom#gh-dark-mode-only)
+ [![Instagram](./assets/instagram-light.svg)](https://instagram.com/midnight_rom#gh-light-mode-only) 
+ [![Instagram](./assets/instagram-dark.svg)](https://instagram.com/midnight_rom#gh-dark-mode-only)
  &nbsp;&nbsp;&nbsp;
- [![LinkedIn](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-light.svg)](https://linkedin.com/in/vishant-prasad#gh-light-mode-only)
- [![LinkedIn](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-dark.svg)](https://linkedin.com/in/vishant-prasad#gh-dark-mode-only)
+ [![LinkedIn](./assets/linkedin-light.svg)](https://linkedin.com/in/vishant-prasad#gh-light-mode-only)
+ [![LinkedIn](./assets/linkedin-dark.svg)](https://linkedin.com/in/vishant-prasad#gh-dark-mode-only)
  &nbsp;&nbsp;&nbsp;
- [![X](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/twitter-light.svg)](https://x.com/alreadydeadvish#gh-light-mode-only) 
- [![X](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/twitter-dark.svg)](https://x.com/alreadydeadvish#gh-dark-mode-only) 
+ [![X](./assets/twitter-light.svg)](https://x.com/alreadydeadvish#gh-light-mode-only) 
+ [![X](./assets/twitter-dark.svg)](https://x.com/alreadydeadvish#gh-dark-mode-only) 
  &nbsp;&nbsp;&nbsp;
- [![YouTube](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/youtube-light.svg)](https://youtube.com/midnightrom#gh-light-mode-only) 
- [![YouTube](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/youtube-dark.svg)](https://youtube.com/midnightrom#gh-dark-mode-only) 
+ [![YouTube](./assets/youtube-light.svg)](https://youtube.com/midnightrom#gh-light-mode-only) 
+ [![YouTube](./assets/youtube-dark.svg)](https://youtube.com/midnightrom#gh-dark-mode-only) 
 
 </div>
 
