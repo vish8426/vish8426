@@ -24,7 +24,7 @@
 
 🔹 Lead Software Engineer performing Full-Stack development at **Thales Group** in the Avionics Training and Simulation Defence Space
 
-## <span style="color: #FF69B4"> My Expertise: </span>
+## <span style="color: #FF69B4"> 🥼 My Expertise: </span>
   - 💪 Back-End Development with C & C++ (+Modern)
   - 🛠️ Project Lifecycle & Delivery
   - 🧪 Formal Testing & Client Acceptance
@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
 </a>
 
-## <span style="color: #FF69B4"> Currently Focusing On: </span>
+## <span style="color: #FF69B4"> 🔭 Currently Focusing On: </span>
   - 🎯 Expanding Front-End Development Skills
   - 🖥️ Mastering Modern C++
   - 🐍 Learning Python & Data Science
