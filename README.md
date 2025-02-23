@@ -24,17 +24,25 @@
 🔹 Lead Software Engineer performing Full-Stack development at **Thales Group** in the Training and Simulation Defence Space
 
 ## <span style="color: #FF69B4"> My Expertise: </span>
-  - 💪 Back-End Development with C & C++
+  - 💪 Back-End Development with C & C++ (+Modern)
   - 🛠️ Project Lifecycle & Delivery
+  - 🧪 Formal Testing & Client Acceptance
   - 🌐 Full-Stack Development
-  - 🔄 DevOps & Formal Testing Events
+  - 🔄 DevOps & Toolchain Pipelines (+Defence Space)
   - 📚 Technical Documentation & Knowledge Management
-  - 🎮 Simulation Systems
+  - 🎮 Developing Simulation Systems
+  - 🛡️ Ongoing Experience in Combat Systems & Defence
+  - 🎵 Audio Engineering & Music Production
+<a href="https://soundcloud.com/alreadydeadvish" target="_blank">
+    <img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
+</a>
 
 ## <span style="color: #FF69B4"> Currently Focusing On: </span>
-  - 🎯 Expanding Front-End Development skills
-  - 🖥️ Learning Python & Mastering C/C++
+  - 🎯 Expanding Front-End Development Skills
+  - 🖥️ Mastering Modern C++
+  - 🐍 Learning Python & Data Science
   - 🔨 Continuous Improvement in Software Architecture
+  - 💿 Expanding Midnight ROM Collective (Merchandise, Portfolio & Website Coming Soon)
 
 &nbsp;
 
@@ -80,7 +88,8 @@
   <img src="./assets/atom.png" width="40" height="40" alt="atom logo" />
   &nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" width="40" height="40" alt="linux logo" />
-
+ 
+</div>
 
   ### 🛠 Frameworks & Tools
   ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) 
@@ -115,48 +124,44 @@
   ### 🤖 AI & Machine Learning
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-</div>
 
-&nbsp;
-
-## 📱 Socials  
 <div align="center">
- <a href="https://linkedin.com/in/vishant-prasad">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn" title="Connect on LinkedIn"/>
- </a>  
- &nbsp;
- <a href="https://soundcloud.com/alreadydeadvish">
-   <img src="./assets/sc.png" width="50" height="50" alt="SoundCloud" title="Listen on SoundCloud"/>
- </a>  
- &nbsp;
- <a href="https://www.youtube.com/midnightrom">
-   <img src="./assets/yt.png" width="50" height="50" alt="YouTube" title="Watch on YouTube"/>
- </a>  
- &nbsp;
- <a href="https://twitter.com/alreadydeadvish" target="_blank">
-   <img src="./assets/colour_x.png" width="50" height="50" alt="Twitter" title="Follow on Twitter"/>
- </a> 
- &nbsp;
- <a href="https://www.instagram.com/midnight_rom" target="_blank">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50" height="50" alt="Instagram" title="Follow on Instagram"/>
- </a>
+ 
+ # 📱 Socials  
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/midnight_rom) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishant-prasad) 
+ [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alreadydeadvish) 
+ [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCbRnjjhyZd2qOJDAaaLPx6g) 
+
+</div>
+
+<div align="center">
+
+ # 🎥 Cinematography
+ 
+ <!-- BEGIN YOUTUBE-CARDS -->
+ [![Alfa Run](https://ytcards.demolab.com/?id=3CaG0oXeqeM&title=Alfa+Run&lang=en&timestamp=1653839644&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Alfa Run")](https://www.youtube.com/watch?v=3CaG0oXeqeM)
+ [![Forever In Autumn /// NFS 2015](https://ytcards.demolab.com/?id=8YXqO8ianvw&title=Forever+In+Autumn+%2F%2F%2F+NFS+2015&lang=en&timestamp=1643353193&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Forever In Autumn /// NFS 2015")](https://www.youtube.com/watch?v=8YXqO8ianvw)
+ [![Open Transmission /// NFS 2015](https://ytcards.demolab.com/?id=MoaiaHVwcw4&title=Open+Transmission+%2F%2F%2F+NFS+2015&lang=en&timestamp=1641880029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Open Transmission /// NFS 2015")](https://www.youtube.com/watch?v=MoaiaHVwcw4)
+ [![Bracelet (scrapped)](https://ytcards.demolab.com/?id=HSK-_9DX3gk&title=Bracelet+%28scrapped%29&lang=en&timestamp=1592794229&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Bracelet (scrapped)")](https://www.youtube.com/watch?v=HSK-_9DX3gk)
+ [![Recovery | Shadow](https://ytcards.demolab.com/?id=jk9SqGa75vw&title=Recovery+%7C+Shadow&lang=en&timestamp=1538815827&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Recovery | Shadow")](https://www.youtube.com/watch?v=jk9SqGa75vw)
+ [![Sun//Gone | Shadow](https://ytcards.demolab.com/?id=V09NMq0jKmo&title=Sun%2F%2FGone+%7C+Shadow&lang=en&timestamp=1488881682&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Sun//Gone | Shadow")](https://www.youtube.com/watch?v=V09NMq0jKmo)
+ <!-- END YOUTUBE-CARDS -->
+ 
 </div>
 
 &nbsp;
+<div align="center">
+ 
+ # ⚙️ <span style="color: #FF69B4"> GitHub Stats </span>
 
-## 🎥 Cinematography
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Alfa Run](https://ytcards.demolab.com/?id=3CaG0oXeqeM&title=Alfa+Run&lang=en&timestamp=1653839644&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Alfa Run")](https://www.youtube.com/watch?v=3CaG0oXeqeM)
-[![Forever In Autumn /// NFS 2015](https://ytcards.demolab.com/?id=8YXqO8ianvw&title=Forever+In+Autumn+%2F%2F%2F+NFS+2015&lang=en&timestamp=1643353193&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Forever In Autumn /// NFS 2015")](https://www.youtube.com/watch?v=8YXqO8ianvw)
-[![Open Transmission /// NFS 2015](https://ytcards.demolab.com/?id=MoaiaHVwcw4&title=Open+Transmission+%2F%2F%2F+NFS+2015&lang=en&timestamp=1641880029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Open Transmission /// NFS 2015")](https://www.youtube.com/watch?v=MoaiaHVwcw4)
-[![Bracelet (scrapped)](https://ytcards.demolab.com/?id=HSK-_9DX3gk&title=Bracelet+%28scrapped%29&lang=en&timestamp=1592794229&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Bracelet (scrapped)")](https://www.youtube.com/watch?v=HSK-_9DX3gk)
-[![Recovery | Shadow](https://ytcards.demolab.com/?id=jk9SqGa75vw&title=Recovery+%7C+Shadow&lang=en&timestamp=1538815827&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Recovery | Shadow")](https://www.youtube.com/watch?v=jk9SqGa75vw)
-[![Sun//Gone | Shadow](https://ytcards.demolab.com/?id=V09NMq0jKmo&title=Sun%2F%2FGone+%7C+Shadow&lang=en&timestamp=1488881682&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Sun//Gone | Shadow")](https://www.youtube.com/watch?v=V09NMq0jKmo)
-<!-- END YOUTUBE-CARDS -->
-
-&nbsp;
-
-# ⚙️ <span style="color: #FF69B4"> GitHub Stats </span>
-![](https://github-readme-stats.vercel.app/api?username=vish8426&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vish8426&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vish8426&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ &nbsp;
+ ![](https://github-readme-stats.vercel.app/api?username=vish8426&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
+ 
+ &nbsp;
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=vish8426&theme=synthwave&hide_border=false)<br/>
+ 
+ &nbsp;
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vish8426&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ 
+</div>
