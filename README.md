@@ -5,7 +5,7 @@
 </div>
    
 &nbsp;
-# 🛸 About Me 🛸
+# <img width="60" height="60" src="./assets/goldenchicken.gif" /> About Me <img width="60" height="60" src="./assets/goldenchicken.gif" />
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AFF00&center=true&vCenter=true&random=false&width=535&lines=Welcome+to+my+Profile+%F0%9F%91%8B;Software+%26+Mechatronics+Engineer;Full-Stack+Developer" alt="Typing SVG" />
 </div>
@@ -18,12 +18,13 @@
 
 &nbsp;
 
-🔹 I'm Vish!
+🔹 I'm Vish! <img width="100" height="80" src="./assets/homer.gif" />
 
 🔹 I'm a **Software & Mechatronics Engineer** from Sydney, Australia
 
 🔹 Lead Software Engineer performing Full-Stack development at **Thales Group** in the Avionics Training and Simulation Defence Space
 
+&nbsp;
 ## <span style="color: #FF69B4"> 🥼 My Expertise: </span>
   - 💪 Back-End Development with C & C++ (+Modern)
   - 🛠️ Project Lifecycle & Delivery
@@ -33,11 +34,12 @@
   - 📚 Technical Documentation & Knowledge Management
   - 🎮 Developing Simulation Systems
   - 🛡️ Ongoing Experience in Combat Systems & Defence
-  - 🎵 Audio Engineering & Music Production
+  - 🎵 Audio Engineering & Music Production <img width="20" height="20" src="./assets/squidward.gif" />
 <a href="https://soundcloud.com/alreadydeadvish" target="_blank">
     <img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
 </a>
 
+&nbsp;
 ## <span style="color: #FF69B4"> 🔭 Currently Focusing On: </span>
   - 🎯 Expanding Front-End Development Skills
   - 🖥️ Mastering Modern C++
@@ -94,6 +96,7 @@
  
 </div>
 
+&nbsp;
  ### 🛠 Frameworks & Tools
  ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) 
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
