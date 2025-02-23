@@ -130,12 +130,12 @@
  </a>  
  &nbsp;
  <a href="https://www.youtube.com/UCLrxQavao9XAjq6CuBLd12g">
-   <img src="./assests/yt.png" width="50" height="50" alt="YouTube" title="Watch on YouTube"/>
+   <img src="./assets/yt.png" width="50" height="50" alt="YouTube" title="Watch on YouTube"/>
  </a>  
  &nbsp;
- <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50" height="50" alt="Twitter" title="Follow on Twitter"/>
- </a>  
+ <a href="https://twitter.com/alreadydeadvish" target="_blank">
+   <img src="" width="50" height="50" alt="Twitter" title="Follow on Twitter"/>
+ </a> 
  &nbsp;
  <a href="https://www.instagram.com/YOUR_USERNAME" target="_blank">
    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50" height="50" alt="Instagram" title="Follow on Instagram"/>
