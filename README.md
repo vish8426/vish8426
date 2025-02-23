@@ -22,7 +22,7 @@
 
 🔹 I'm a **Software & Mechatronics Engineer** from Sydney, Australia
 
-🔹 Lead Software Engineer performing Full-Stack development at **Thales Group** in the Training and Simulation Defence Space
+🔹 Lead Software Engineer performing Full-Stack development at **Thales Group** in the Avionics Training and Simulation Defence Space
 
 ## <span style="color: #FF69B4"> My Expertise: </span>
   - 💪 Back-End Development with C & C++ (+Modern)
@@ -139,10 +139,17 @@
 <div align="center">
  
  # 📱 Socials   
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/midnight_rom) 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishant-prasad) 
- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alreadydeadvish) 
- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCbRnjjhyZd2qOJDAaaLPx6g) 
+ [![Instagram](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/instagram-light.svg)](https://instagram.com/midnight_rom#gh-light-mode-only) 
+ [![Instagram](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/instagram-dark.svg)](https://instagram.com/midnight_rom#gh-dark-mode-only)
+ &nbsp;&nbsp;&nbsp;
+ [![LinkedIn](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-light.svg)](https://linkedin.com/in/vishant-prasad#gh-light-mode-only)
+ [![LinkedIn](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-dark.svg)](https://linkedin.com/in/vishant-prasad#gh-dark-mode-only)
+ &nbsp;&nbsp;&nbsp;
+ [![X](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/twitter-light.svg)](https://x.com/alreadydeadvish#gh-light-mode-only) 
+ [![X](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/twitter-dark.svg)](https://x.com/alreadydeadvish#gh-dark-mode-only) 
+ &nbsp;&nbsp;&nbsp;
+ [![YouTube](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/youtube-light.svg)](https://youtube.com/midnightrom#gh-light-mode-only) 
+ [![YouTube](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/youtube-dark.svg)](https://youtube.com/midnightrom#gh-dark-mode-only) 
 
 </div>
 
