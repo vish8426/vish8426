@@ -1,6 +1,6 @@
 <div align="center">
  <kbd>
-    <img src="./assets/M3Banner.gif" alt="Banner Image" />
+   <img src="./assets/M3Banner.gif" alt="Banner Image" />
   <kbd>
 </div>
    
