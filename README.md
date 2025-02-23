@@ -51,7 +51,7 @@
 
 &nbsp;
 
-# 💻 <span style="color: #FF69B4"> Tech Stack <img width="30" height="30" src="./assets/pixelfireworks.gif" /> </span>
+# 💻 <span style="color: #FF69B4"> Tech Stack </span>
 
 <div align="center"
 
@@ -156,14 +156,13 @@
  [![YouTube](./assets/youtube-light.svg)](https://youtube.com/midnightrom#gh-light-mode-only) 
  [![YouTube](./assets/youtube-dark.svg)](https://youtube.com/midnightrom#gh-dark-mode-only) 
 
-<img width="100" height="100" src="./assets/sun.gif" />
+<img width="200" height="200" src="./assets/synthbg.gif" />
 
 </div>
 
 <div align="center">
 
  # 🎥 Cinematography
- <img width="120" height="70" src="./assets/car.gif" />
  
  <!-- BEGIN YOUTUBE-CARDS -->
 [![Alfa Run](https://ytcards.demolab.com/?id=3CaG0oXeqeM&title=Alfa+Run&lang=en&timestamp=1653839644&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Alfa Run")](https://www.youtube.com/watch?v=3CaG0oXeqeM)
@@ -173,7 +172,7 @@
 [![Recovery | Shadow](https://ytcards.demolab.com/?id=jk9SqGa75vw&title=Recovery+%7C+Shadow&lang=en&timestamp=1538815827&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Recovery | Shadow")](https://www.youtube.com/watch?v=jk9SqGa75vw)
 [![Sun//Gone | Shadow](https://ytcards.demolab.com/?id=V09NMq0jKmo&title=Sun%2F%2FGone+%7C+Shadow&lang=en&timestamp=1488881682&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Sun//Gone | Shadow")](https://www.youtube.com/watch?v=V09NMq0jKmo)
 <!-- END YOUTUBE-CARDS -->
-
+ <img width="150" height="80" src="./assets/car.gif" />
 </div>
 
 &nbsp;
