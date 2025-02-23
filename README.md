@@ -134,10 +134,10 @@
  </a>  
  &nbsp;
  <a href="https://twitter.com/alreadydeadvish" target="_blank">
-   <img src="./assets/x.png" width="50" height="50" alt="Twitter" title="Follow on Twitter"/>
+   <img src="./assets/colour_x.png" width="50" height="50" alt="Twitter" title="Follow on Twitter"/>
  </a> 
  &nbsp;
- <a href="https://www.instagram.com/YOUR_USERNAME" target="_blank">
+ <a href="https://www.instagram.com/midnight_rom" target="_blank">
    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50" height="50" alt="Instagram" title="Follow on Instagram"/>
  </a>
 </div>
