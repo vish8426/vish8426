@@ -134,7 +134,7 @@
  </a>  
  &nbsp;
  <a href="https://twitter.com/alreadydeadvish" target="_blank">
-   <img src="" width="50" height="50" alt="Twitter" title="Follow on Twitter"/>
+   <img src="./assets/x.png" width="50" height="50" alt="Twitter" title="Follow on Twitter"/>
  </a> 
  &nbsp;
  <a href="https://www.instagram.com/YOUR_USERNAME" target="_blank">
