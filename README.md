@@ -110,9 +110,19 @@
  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
  ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
  ![Make](https://img.shields.io/badge/CMake-%23FF0000.svg?style=for-the-badge&logo=make&logoColor=white)
- ![Linux](https://img.shields.io/badge/linux-%23F46800.svg?style=for-the-badge&logo=linux&logoColor=white)
- ![Vim](https://img.shields.io/badge/vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white)
+ ![MinGW](https://img.shields.io/badge/mingww64-%23000000.svg?style=for-the-badge&logo=mingww64&logoColor=white)
 
+ ### 📝 Scripting
+ ![Vim](https://img.shields.io/badge/vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white)
+ ![GNUBash](https://img.shields.io/badge/gnubash-%23000000.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+ ![Notepad++](https://img.shields.io/badge/notepadplusplus-%23008FBA.svg?style=for-the-badge&logo=notepadplusplus&logoColor=white)
+
+ ### 🖥️ Operating Systems
+ ![Proxmox](https://img.shields.io/badge/proxmox-FFA500.svg?style=for-the-badge&logo=proxmox&logoColor=white)
+ ![Linux](https://img.shields.io/badge/linux-%23F46800.svg?style=for-the-badge&logo=linux&logoColor=white)
+ ![VirtualBox](https://img.shields.io/badge/virtualbox-FFA500.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
+ ![Synology](https://img.shields.io/badge/synology-808080.svg?style=for-the-badge&logo=synology&logoColor=white)
+ 
  ### 🎚️ Audio Tools
  ![Audacity](https://img.shields.io/badge/audacity-%23E23237.svg?style=for-the-badge&logo=audacity&logoColor=white)
  ![SoundCloud](https://img.shields.io/badge/soundcloud-%23F46800.svg?style=for-the-badge&logo=soundcloud&logoColor=white)
@@ -121,13 +131,13 @@
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
  ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
  ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+ ![NATS](https://img.shields.io/badge/natsdotio-2496ED.svg?style=for-the-badge&logo=natsdotio&logoColor=white)
 
  ### 📚 Documentation & Project Management
  ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
  ![Obsidian](https://img.shields.io/badge/obsidian-9999FF.svg?style=for-the-badge&logo=obsidian&logoColor=white)
- ![Notepad++](https://img.shields.io/badge/notepadplusplus-%23008FBA.svg?style=for-the-badge&logo=notepadplusplus&logoColor=white)
  ![LaTeX](https://img.shields.io/badge/latex-FFFFFF.svg?style=for-the-badge&logo=latex&logoColor=black)
  ![Overleaf](https://img.shields.io/badge/overleaf-228B22.svg?style=for-the-badge&logo=overleaf&logoColor=white)
 
@@ -145,9 +155,9 @@
  ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
  ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) 
  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+ ![VegasPRO](https://img.shields.io/badge/vegas-%23172BF4.svg?style=for-the-badge&logo=vegas&logoColor=white)
  ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
  ![Inkscape](https://img.shields.io/badge/inkscape-%23000000.svg?style=for-the-badge&logo=inkscape&logoColor=white)
- ![VegasPRO](https://img.shields.io/badge/vegas-%23172BF4.svg?style=for-the-badge&logo=vegas&logoColor=white)
 
  ### 🤖 AI & Machine Learning
  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
