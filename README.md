@@ -24,7 +24,12 @@
 
 🔹 Lead Software Engineer performing Full-Stack development at **Thales Group** in the Avionics Training and Simulation Defence Space
 
-&nbsp;
+<div align="center">
+ 
+ ## 🌌 Portfolio
+ [![Portfolio](./assets/synthbg.gif)](https://vish-portfolio.framer.website/)
+</div>
+
 ## <span style="color: #FF69B4"> 🥼 My Expertise: </span>
   - 💪 Back-End Development with C & C++ (+Modern)
   - 🛠️ Project Lifecycle & Delivery
@@ -156,8 +161,6 @@
  &nbsp;&nbsp;&nbsp;
  [![YouTube](./assets/youtube-light.svg)](https://youtube.com/midnightrom#gh-light-mode-only) 
  [![YouTube](./assets/youtube-dark.svg)](https://youtube.com/midnightrom#gh-dark-mode-only) 
-
-<img width="200" height="200" src="./assets/synthbg.gif" />
 
 </div>
 
