@@ -111,11 +111,12 @@
  ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
  ![Make](https://img.shields.io/badge/CMake-%23FF0000.svg?style=for-the-badge&logo=make&logoColor=white)
  ![Linux](https://img.shields.io/badge/linux-%23F46800.svg?style=for-the-badge&logo=linux&logoColor=white)
+ ![Vim](https://img.shields.io/badge/vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white)
 
  ### 🎚️ Audio Tools
  ![Audacity](https://img.shields.io/badge/audacity-%23E23237.svg?style=for-the-badge&logo=audacity&logoColor=white)
  ![SoundCloud](https://img.shields.io/badge/soundcloud-%23F46800.svg?style=for-the-badge&logo=soundcloud&logoColor=white)
-
+ 
  ### 💾 Databases & Monitoring
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
  ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
@@ -125,8 +126,10 @@
  ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
- ![Obsidian](https://img.shields.io/badge/obsidian-%23008FBA.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+ ![Obsidian](https://img.shields.io/badge/obsidian-9999FF.svg?style=for-the-badge&logo=obsidian&logoColor=white)
  ![Notepad++](https://img.shields.io/badge/notepadplusplus-%23008FBA.svg?style=for-the-badge&logo=notepadplusplus&logoColor=white)
+ ![LaTeX](https://img.shields.io/badge/latex-FFFFFF.svg?style=for-the-badge&logo=latex&logoColor=black)
+ ![Overleaf](https://img.shields.io/badge/overleaf-228B22.svg?style=for-the-badge&logo=overleaf&logoColor=white)
 
  ### 📊 Version Control & Repository
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -134,8 +137,8 @@
  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
  ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
  ![Conan](https://img.shields.io/badge/conan-%23008FBA.svg?style=for-the-badge&logo=conan&logoColor=white)
- ![JFrog](https://img.shields.io/badge/jfrog-%23008FBA.svg?style=for-the-badge&logo=jfrog&logoColor=white)
- ![7Zip](https://img.shields.io/badge/7zip-%23008FBA.svg?style=for-the-badge&logo=7zip&logoColor=white)
+ ![JFrog](https://img.shields.io/badge/jfrog-%1c3b73.svg?style=for-the-badge&logo=jfrog&logoColor=white)
+ ![7Zip](https://img.shields.io/badge/7zip-%234ea94b.svg?style=for-the-badge&logo=7zip&logoColor=white)
 
  ### 🎨 Design & Creative Tools
  ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
@@ -143,7 +146,8 @@
  ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) 
  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
  ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
- ![Inkscape](https://img.shields.io/badge/inkscape-%23008FBA.svg?style=for-the-badge&logo=inkscape&logoColor=white)
+ ![Inkscape](https://img.shields.io/badge/inkscape-%23000000.svg?style=for-the-badge&logo=inkscape&logoColor=white)
+ ![VegasPRO](https://img.shields.io/badge/vegas-%23172BF4.svg?style=for-the-badge&logo=vegas&logoColor=white)
 
  ### 🤖 AI & Machine Learning
  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
