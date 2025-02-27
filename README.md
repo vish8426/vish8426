@@ -61,41 +61,33 @@
 <div align="center"
 
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="30" height="30" alt="ts logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-plain.svg" width="30" height="30" alt="c logo" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="30" height="30" alt="c++ logo" />
   &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-plain.svg" width="30" height="30" alt="c logo" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cmake/cmake-plain.svg" width="30" height="30" alt="cmake logo" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="30" height="30" alt="python logo"  />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30" height="30" alt="html logo"  />
   &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/aftereffects/aftereffects-original.svg" width="30" height="30" alt="ae logo" />
-  &nbsp;
-  <img src="./assets/ps.png" width="30" height="30" alt="ps logo" />
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cmake/cmake-plain.svg" width="30" height="30" alt="cmake logo" />
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/confluence/confluence-original.svg" width="30" height="30" alt="confluence logo" />
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jira/jira-original.svg" width="30" height="30" alt="jira logo" />
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-plain.svg" width="30" height="30" alt="docker logo" />
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fortran/fortran-original.svg" width="30" height="30" alt="fortran logo" />
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gcc/gcc-original.svg" width="30" height="30" alt="gcc logo" />
-  &nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-plain.svg" width="30" height="30" alt="git logo" />
   &nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gitlab/gitlab-plain.svg" width="30" height="30" alt="gitlab logo" />
   &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/grafana/grafana-plain.svg" width="30" height="30" alt="grafana logo" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fortran/fortran-original.svg" width="30" height="30" alt="fortran logo" />
+  &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/aftereffects/aftereffects-original.svg" width="30" height="30" alt="ae logo" />
+  &nbsp;
+  <img src="./assets/ps.png" width="30" height="30" alt="ps logo" />
+  &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-plain.svg" width="30" height="30" alt="docker logo" />
   &nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" width="30" height="30" alt="vscode logo" />
   &nbsp;
   <img src="./assets/atom.png" width="30" height="30" alt="atom logo" />
+  &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gcc/gcc-original.svg" width="30" height="30" alt="gcc logo" />
   &nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" width="30" height="30" alt="linux logo" />
  
@@ -157,7 +149,9 @@
  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
  ![VegasPRO](https://img.shields.io/badge/vegas-%23172BF4.svg?style=for-the-badge&logo=vegas&logoColor=white)
  ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+ ![Cinema4D](https://img.shields.io/badge/cinema4d-ADD8E6?style=for-the-badge&logo=cinema4d&logoColor=blue)
  ![Inkscape](https://img.shields.io/badge/inkscape-%23000000.svg?style=for-the-badge&logo=inkscape&logoColor=white)
+ ![Spline](https://img.shields.io/badge/spline-4B0082?style=for-the-badge&logo=spline&logoColor=blue)
 
  ### 🤖 AI & Machine Learning
  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
