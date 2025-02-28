@@ -175,7 +175,9 @@
    <summary><b>📌 Lead Full-Stack Software Engineer - Thales Group (Current)</b></summary>
   
     🔹 Leading Full-Stack Development with a Focus on Back-End (C & C++). 
+    
     🔹 Developing High-Performance Software for Defence Mission-Critical Training Systems & Simulators. 
+    
     🔹 Working within the Avonics & Submarine Spaces. 
  </details>
  
@@ -183,6 +185,7 @@
    <summary><b>💻 Intern & Graduate Software Engineer</b></summary>
   
     🔹 Worked on Airforce R&D Project.
+    
     🔹 Developing a Front-End Training Platform with Interface to Back-End Databases. 
  </details>
  
@@ -190,10 +193,15 @@
    <summary><b>🎓 Academic Background</b></summary>
     
     🔹 Studied Software & Mechatronics Engineering (Honours) at the University of Sydney.  
+    
     🔹 Covered Machine Language, Hardware Design, & Low-Level Programming.  
+    
     🔹 Gained Experience in System Architecture & Embedded Development. 
+    
     🔹 Robotics & Automation Engineering with studies Spanning in Mathematics, Physics, Software (C, C++, Assembly, MATLAB & Python).
+    
     🔹 Experience in R-Studio & Mathematica with Statistic Analysis.
+    
     🔹 Electrical Engineer, CAD & Mechanical Design.
  </details>
 </div>
@@ -214,6 +222,8 @@
  [![YouTube](./assets/youtube-dark.svg)](https://youtube.com/midnightrom#gh-dark-mode-only) 
 
 </div>
+
+&nbsp;
 
 <div align="center">
 
