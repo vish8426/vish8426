@@ -79,7 +79,7 @@
   &nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/aftereffects/aftereffects-original.svg" width="30" height="30" alt="ae logo" />
   &nbsp;
-  <img src="./assets/ps.png" width="30" height="30" alt="ps logo" />
+  <img src="./assets/ps_old.png" width="30" height="30" alt="ps logo" />
   &nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-plain.svg" width="30" height="30" alt="docker logo" />
   &nbsp;
