@@ -230,12 +230,12 @@
  # 🎥 Cinematography
  
  <!-- BEGIN YOUTUBE-CARDS -->
+[![A Dying Age /// Assetto Corsa](https://ytcards.demolab.com/?id=hYPSsuey9wI&title=A+Dying+Age+%2F%2F%2F+Assetto+Corsa&lang=en&timestamp=1661597507&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "A Dying Age /// Assetto Corsa")](https://www.youtube.com/watch?v=hYPSsuey9wI)
 [![Alfa Run](https://ytcards.demolab.com/?id=3CaG0oXeqeM&title=Alfa+Run&lang=en&timestamp=1653839644&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Alfa Run")](https://www.youtube.com/watch?v=3CaG0oXeqeM)
 [![Forever In Autumn /// NFS 2015](https://ytcards.demolab.com/?id=8YXqO8ianvw&title=Forever+In+Autumn+%2F%2F%2F+NFS+2015&lang=en&timestamp=1643353193&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Forever In Autumn /// NFS 2015")](https://www.youtube.com/watch?v=8YXqO8ianvw)
 [![Open Transmission /// NFS 2015](https://ytcards.demolab.com/?id=MoaiaHVwcw4&title=Open+Transmission+%2F%2F%2F+NFS+2015&lang=en&timestamp=1641880029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Open Transmission /// NFS 2015")](https://www.youtube.com/watch?v=MoaiaHVwcw4)
 [![Bracelet (scrapped)](https://ytcards.demolab.com/?id=HSK-_9DX3gk&title=Bracelet+%28scrapped%29&lang=en&timestamp=1592794229&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Bracelet (scrapped)")](https://www.youtube.com/watch?v=HSK-_9DX3gk)
 [![Recovery | Shadow](https://ytcards.demolab.com/?id=jk9SqGa75vw&title=Recovery+%7C+Shadow&lang=en&timestamp=1538815827&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Recovery | Shadow")](https://www.youtube.com/watch?v=jk9SqGa75vw)
-[![Sun//Gone | Shadow](https://ytcards.demolab.com/?id=V09NMq0jKmo&title=Sun%2F%2FGone+%7C+Shadow&lang=en&timestamp=1488881682&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Sun//Gone | Shadow")](https://www.youtube.com/watch?v=V09NMq0jKmo)
 <!-- END YOUTUBE-CARDS -->
  <img width="150" height="80" src="./assets/car.gif" />
 </div>
