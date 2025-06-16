@@ -26,7 +26,7 @@
 
 <div align="center">
  
- ## 🌌 Portfolio (WIP)
+ ## 🌌 Portfolio
  [![Portfolio](./assets/synthbg.gif)](https://vish-portfolio.framer.website/)
 </div>
 
