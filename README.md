@@ -179,18 +179,22 @@
     🔹 Developing High-Performance Software for Defence Mission-Critical Training Systems & Simulators. 
     
     🔹 Working within the Avonics & Submarine Spaces. 
+    
+    🔹 Navy & Defence Contract Bid Work Experience. 
  </details>
  
  <details>
    <summary><b>💻 Intern & Graduate Software Engineer</b></summary>
   
-    🔹 Worked on Airforce R&D Project.
+    🔹 Worked on Airforce R&D Project (Full Phase).
     
-    🔹 Developing a Front-End Training Platform with Interface to Back-End Databases. 
+    🔹 Developing a Front-End Training Platform with Interface to Back-End Databases (Full-Stack). 
  </details>
  
  <details>
    <summary><b>🎓 Academic Background</b></summary>
+
+    🔹 Studying a Masters in Science of Software Engineering (MSSE) at Quantic School of Business and Technology (Washington DC USA).
     
     🔹 Studied Software & Mechatronics Engineering (Honours) at the University of Sydney.  
     
